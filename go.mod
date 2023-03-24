@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	github.com/RoaringBitmap/roaring v0.4.18
-	github.com/golang/protobuf v1.5.2
+	github.com/golang/protobuf v1.5.3
 	github.com/google/uuid v1.3.0
 	github.com/longhorn/backupstore v0.0.0-20230324032504-af5b1473e0fc
 	github.com/longhorn/longhorn-engine v1.4.0-rc1.0.20230324082117-c0a20c2ccfe1
